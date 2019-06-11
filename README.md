@@ -24,3 +24,5 @@ If you want to try this yourself there are a few steps to do.
 So if calcy doesn't have a good read on the pokemon this will still pop up a toast based on the black circle numbers but it will potentially be wildly inaccurate. It should notify you of the percent for all relevant forms and evolutions including pre-evolutions.
 
 Change 'flashLong' to 'flash' for shorter duration messages.
+
+This work is all built around CalcyIV but I have no connection to them. They do a wonderful job, please checkout reddit.com/r/calcyiv and consider donating for the work they do. All values I ripped from KiengIV's pvp IV spreadsheet so big thanks to him as well.
