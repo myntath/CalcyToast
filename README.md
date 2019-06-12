@@ -7,7 +7,7 @@ Disclaimers: I am not good at programming, this is a hack, there will be lots of
 
 What I do is have tasker check for a change in clipboard value and read it. Tasker gets the atk,def,sta IVs and pokemon type and calculates the IV% and pops it up.
 
-Picture: https://imgur.com/a/naW0ysQ
+Picture: http://imgur.com/a/V1KYpgl
 
 If you want to try this yourself there are a few steps to do.
 
