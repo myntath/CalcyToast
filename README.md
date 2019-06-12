@@ -11,13 +11,13 @@ Picture: http://imgur.com/a/V1KYpgl
 
 If you want to try this yourself there are a few steps to do.
 
-1. Set up calcy renaming so that AttIV,DefIV,StaIV are all part of the renaming scheme in that order without spaces using the little circles. Also at the end of your renaming you need to have a '#' followed by the 'No#'. e.g. my 12/14/15 Azumarill would rename to '91⑫⑭⑮37½BuIB#184' with my particular renaming scheme. Other schemes should be fine as long as you obey those rules and also don't use the little circle numbers for '#' anywhere else. https://i.imgur.com/kj8k2zV.jpg
+1. Set up calcy renaming so that AttIV,DefIV,StaIV are all part of the renaming scheme in that order without spaces using the little circles. Also at the end of your renaming you need to have a '#' followed by the 'No#'. e.g. my 12/14/15 Azumarill would rename to '91⑫⑭⑮37½BuIB#184' with my particular renaming scheme. Other schemes should be fine as long as you obey those rules and also don't use the little circle numbers for '#' anywhere else. https://i.imgur.com/kj8k2zV
 
 2. Download: pvp.js to your phone.
 
-3. Create a tasker 'task' to run 'javascript' point that to the 'pvp.js' file you made. https://i.imgur.com/4U9G1cJ.jpg
+3. Create a tasker 'task' to run 'javascript' point that to the 'pvp.js' file you made. https://i.imgur.com/4U9G1cJ
 
-4. Create a tasker 'profile' choose 'Variable Set' and under 'Variable' enter '%CLIP'. https://i.imgur.com/CTiGlaX.jpg
+4. Create a tasker 'profile' choose 'Variable Set' and under 'Variable' enter '%CLIP'. https://i.imgur.com/CTiGlaX
 
 5. Start scanning pokemon.
 
