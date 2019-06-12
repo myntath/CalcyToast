@@ -25,6 +25,8 @@ So if calcy doesn't have a good read on the pokemon this will still pop up a toa
 
 Change 'flashLong' to 'flash' for shorter duration messages.
 
+You can use pvprank.js if you want to also display the rank (out of 4096). It is quite a bit slower to run though as it calculates all ranks each time.
+
 This work is all built around CalcyIV but I have no connection to them. They do a wonderful job, please checkout reddit.com/r/calcyiv and consider donating for the work they do. All values I ripped from KiengIV's pvp IV spreadsheet so big thanks to him as well.
 
 Feel free to copy of do whatever you want with this. No licence required.
