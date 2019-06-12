@@ -123,9 +123,10 @@ for(var i=0; i<baseatk.length; i++) {
 	ranks = ranks.sort(function(a, b){return a - b})
 //	console.log(ranks.length);
 	maxproduct = maxatk*maxdef*maxsta;
+	var finalrank = 1;
 	for(var j=0; j < ranks.length; j++) {
 		if(maxproduct < ranks[j]) {
-			var finalrank = (4096 - j + 1);
+			finalrank = (4096 - j + 1);
 			j = 5000;
 		}
 	}
